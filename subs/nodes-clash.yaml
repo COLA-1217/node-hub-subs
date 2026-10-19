@@ -1,4 +1,4 @@
-# node-hub 导出 · 2026/10/19 20:45:24
+# node-hub 导出 · 2026/10/19 20:45:54
 # 「⚡ 自动选择」是自动选择组：客户端按 http://www.gstatic.com/generate_204 每 5 分钟复测组内 50 个节点，自动用最快的那个
 mixed-port: 7890
 allow-lan: false
